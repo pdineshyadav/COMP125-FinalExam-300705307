@@ -1,4 +1,4 @@
-# COMP125-Lesson13
+# COMP125-Final Exam
 
 ## CreateJS with TypeScript
 
